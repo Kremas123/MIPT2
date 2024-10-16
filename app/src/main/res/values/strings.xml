@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Word and Character Counter</string>
+
+
+    <string name="input_hint">Enter your text here...</string>
+
+
+    <string name="calculate_button_text">Calculate</string>
+
+
+    <string name="result_placeholder">Result will be displayed here</string>
+</resources>
